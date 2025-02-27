@@ -1,0 +1,7 @@
+Prompts utilizados:
+
+Somador Completo: Por favor, crie o código de um somador completo em VHDL, para que eu possa criar um bloco de circuito com ele e usar no esquemático de um softwar de simulação, não esqueça de incluir no código as bibliotecas necessárias.
+
+ULA: Por favor, crie um código VHDL para desenvolver uma ULA com 2 entradas de 4 Bits e um seletor de dois bits de operação, serão 4 operações: SOMA, SUBTRAÇÃO, E lógico e OU lógico, por favor, indique de forma clara as estradas e a combinação de para cada operação, por favor, não esqueça de incluir as bibliotecas como fizemos no código anterior, importante preciso ter acesso terminal a terminal de todos os barramentos, ao invés de ter um barramento A e um B, etc; ou seja preciso que todos os terminais estejam acessíveis de forma paralela cada BIT de A, cada BIT de B, etc.
+
+Testbench: Por favor, crie um código em VHDL de testbench para testarmos e o somador completo que criamos anteriormente, injete sinais de entrada A, B e Cin e vamos visualizar as saídas Sum e Cout.
